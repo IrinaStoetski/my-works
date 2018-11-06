@@ -19,7 +19,7 @@ https://lalafo.com/
 
 https://gitlab.com/IrinaSt/forkio
 
-Step project of full-stack developers team. 
+# Step project of full-stack developers team. 
 My goal was to create responsive layout and refactor scss code in React.js-Java stack.
 
 https://github.com/upastushyna/Mention
